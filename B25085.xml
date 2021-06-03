@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. James R. Whereas by an act of Parliament made in this kingdom in the 14th and 15th years of the reign of our late dear brother of blessed memory, it is among other things enacted, that for all forreign commodities ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25085</idno><idno type="EEBO-CITATION">99886409</idno>
+  <idno type="VID">186664</idno>
+  <idno type="EEBO-PROQUEST">2248538149</idno>
+  
+            <idno type="STC">Wing J295</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[89]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[99]</idno>
+            <idno type="STC">ESTC R225975</idno>
+            <idno type="PROQUEST">ocm99886409</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886409e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186664)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[89]; C23:1[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. James R. Whereas by an act of Parliament made in this kingdom in the 14th and 15th years of the reign of our late dear brother of blessed memory, it is among other things enacted, that for all forreign commodities ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook the assignee of Benjamin Tooke, printer to the King's most excellent Majesty, and are to be sold by Andrew Crook at his Majesties printing-house on Ormonde-Key.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689. [i.e.1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>"Given at our court at our Castle of Dublin the tenth day of January. 1689.".</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Concerning the importation of iron.</note>
+                  <note>Arms 185.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186664:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of James II</figDesc>
+                  <head>I<seg rend="sup">2</seg> R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>By The KING,</head>
+            <head>A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R</signed>
+            </opener>
+            <p>WHEREAS by an Act of Parliament made in this Kingdom in the <hi>14th</hi> and <hi>15th</hi> years of the Reign of Our late dear Bro<g ref="char:EOLhyphen"/>ther of Blessed Memory, it is among other things Enacted, that for all forreign Commodities (except Wines and Tobaccoes, and Commodities from the English Plantations) imported into this Our King<g ref="char:EOLhyphen"/>dom of <hi>Ireland</hi> by any of Our Subjects from any places beyond the Seas, other than from <hi>England</hi> or <hi>Wales,</hi> there shall be paid to Vs, Our Heirs and Successors, one third more in Subsidy, over and above the Subsidy payable for the same according to the Book of Rates in the said Statute inserted; and that for all or any the Commodities or Merchandizes in the said Acts or Book of Rates mentioned, which should be imported or exported by any aliens or strangers born out of Our allegiance, such aliens or strangers should pay double the Custom or Subsidy, payable by vertue of the said Act, for the same Commodities and Merchandizes imported or exported by Our natural born Subjects; And whereas the duty upon forreign Iron imported into this Kingdom, is now at four pounds per Tunn, and twenty shillings for every hundred of forreign Iron-Pots, And We being desirous to contribute what in Vs lies to the encouragement of all Trading Merchants, and the encrease and advance of Trade in this Kingdom, even to the remitting or les<g ref="char:EOLhyphen"/>sening such Customs, Duties and Subsidies as are payable to Vs; We have therefore thought fit, by the Advice of Our Privy-Council, to publish and de<g ref="char:EOLhyphen"/>clare, that Our Will and Pleasure is, that the said additional third part in Subsidy payable for all forreign Commodities as aforesaid, to be imported by any of Our Subjects from any part beyond the Seas, except <hi>England</hi> and <hi>Wales,</hi> as also the said double Subsidy or Custom payable by aliens or stran<g ref="char:EOLhyphen"/>gers, be and is hereby remitted as to all such Goods that shall hereafter be imported into, or exported out of this Kingdom by any such subjects or stran<g ref="char:EOLhyphen"/>gers: And that likewise all forreign Iron hereafter imported into this King<g ref="char:EOLhyphen"/>dom, shall pay but forty shillings <hi>sterl.</hi> per Tunn, being the one moyety of the Duty heretofore payable for the same; and for every hundred of forreign Iron-Pots, the summ of twelve shillings <hi>sterl.</hi> and no more: And this free<g ref="char:EOLhyphen"/>dom and immunity to continue for the space of two years from the date here<g ref="char:EOLhyphen"/>of, and from thence forward until We shall think fit to revoke the same by publick Proclamation to be issued by the space of three months at the least be<g ref="char:EOLhyphen"/>fore the said Duties, or any of them shall be again demanded or levied.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Our Castle of <hi>Dublin</hi>
+                  </hi>
+                  <date>
+                     <hi>the tenth day of <hi>January.</hi>
+                     </hi> 1689. <hi>And in the Fifth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING,</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> the Assignee of <hi>Benjamin Tooke,</hi> Printer to the King's Most Excellent Majesty, and are to be <hi>Sold by Andrew Crook</hi> at <hi>His Ma<g ref="char:EOLhyphen"/>jesty's</hi> Printing-House on <hi>Ormonde-Key.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
